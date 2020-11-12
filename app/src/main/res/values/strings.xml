@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomList</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="Update">Update</string>
+</resources>
